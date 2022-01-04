@@ -1,7 +1,4 @@
-/*
-Author : ssp3edy 
-Date : 2019-June-06
-*/
+
 
 #include <iostream>
 #include <string.h>
