@@ -1,7 +1,4 @@
-/*
-Author : ssp3edy 
-Date : 2019-June-06
-*/
+
 
 #define MAX 16
 // padding is done to ensure that the code generated for each charater will fit byte size.
